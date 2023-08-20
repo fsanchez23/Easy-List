@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769133367527",
+    "project_id": "fsancheza10-14bb9",
+    "storage_bucket": "fsancheza10-14bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769133367527:android:3677860dda3dc1e24d1242",
+        "android_client_info": {
+          "package_name": "fsanchez.a10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769133367527-dvpvgmtsv5f6a7feffg9p1k8dck0mnna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI0KqX6yc32gwnjDSyhmyvfScDfgCckh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769133367527-dvpvgmtsv5f6a7feffg9p1k8dck0mnna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
